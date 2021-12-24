@@ -34,4 +34,4 @@ Remember any device could be at risk, be cautious — treat all Wi-Fi links with
 
 * Avoid using specific types of websites – When using public Wi-Fi, it’s a good idea to avoid logging into websites where cybercriminals could capture your identity, passwords or personal information — such as social networking sites, online banking services or any websites that store your credit card information. If you need to access any websites that store or require the input of any sensitive information — including social networking, online shopping, and online banking sites — it may be worthwhile accessing them via your mobile phone network, instead of the public Wi-Fi connection.
 
-![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
+## ![Activity - About Keystroke Injection Attack](https://github.com/AminuKano/YSJ_YHIoT-Cyber-Hygiene/blob/main/Activity%20-%20About%20Keystroke/README.md#activity---about-keystroke-injection-attack)

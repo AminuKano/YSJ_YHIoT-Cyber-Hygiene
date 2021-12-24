@@ -11,9 +11,9 @@ Having good cyber hygiene is important not only to maintain the health of your s
 
  ## Common Cyber Hygiene Problems 
  
-•	Loss of data/misplaced data, not making regular backups of hard drives, or not utilising cloud storage could result in information being lost if the drive was to ever crash. 
-•	Security breach, attacks from hackers through phishing, hacking, malware, spam, or viruses could cost loss of accounts or data. 
-•	Out of date software, having out of date software of firewalls means they are not able to tackle newer attacks and exploits that were never patched out.
-•	Other users of the data, everyone needs to utilise the same secure practices else data can be breached by one of the weaker members. 
+*	Loss of data/misplaced data, not making regular backups of hard drives, or not utilising cloud storage could result in information being lost if the drive was to ever crash. 
+*	Security breach, attacks from hackers through phishing, hacking, malware, spam, or viruses could cost loss of accounts or data. 
+*	Out of date software, having out of date software of firewalls means they are not able to tackle newer attacks and exploits that were never patched out.
+*	Other users of the data, everyone needs to utilise the same secure practices else data can be breached by one of the weaker members. 
 
 https://www.yorksj.ac.uk/staff/

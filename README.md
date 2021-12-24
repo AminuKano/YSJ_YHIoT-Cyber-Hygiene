@@ -1,3 +1,6 @@
+
+![UBC JupyterDays 2020](https://github.com/AminuKano/YSJ_YHIoT-Cyber-Hygiene/blob/main/images/ysj_HIoT.PNG)
+
 # YSJ_YHIoT-Cyber-Hygiene
 
 Instructor Dr Aminu Usman 
